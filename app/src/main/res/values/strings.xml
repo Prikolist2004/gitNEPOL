@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git1</string>
+    <string name="pr1">1</string>
+    <string name="pr2">2</string>
+    <string name="pr3">3</string>
+    <string name="pr4">4</string>
+    <string name="empty"> </string>
+
+</resources>
